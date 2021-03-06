@@ -1,0 +1,50 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Gildan T-Shirt",
+    "sku_code": 1,
+    "price": 32.05
+  },
+  {
+    "product_id": 2,
+    "product_name": "Bella Unisex Short Sleeve Jersey",
+    "sku_code": 2,
+    "price": 26.54
+  },
+  {
+    "product_id": 3,
+    "product_name": "American Apparel Unisex Jersey",
+    "sku_code": 3,
+    "price": 66.72
+  },
+  { 
+    "product_id": 4,
+    "product_name": "Stanley/Stella Creator T-Shirt",
+    "sku_code": 4,
+    "price": 24.05
+  },
+  {
+    "product_id": 5,
+    "product_name": "Gildan Ultra Cotton Tank Top",
+    "sku_code": 5,
+    "price": 64.0
+  },
+  {
+    "product_id": 6,
+    "product_name": "American Apperal 3/4 Sleeve Raglan Shirt",
+    "sku_code": 6,
+    "price": 44.55
+  },
+  {
+    "product_id": 7,
+    "product_name": "Tultex Unisex Raglan Shirt",
+    "sku_code": 7,
+    "price": 37.89
+  },
+  {
+    "product_id": 8,
+    "product_name": "Gildan Unisex Heavy Blend Hooded Sweatshirt",
+    "sku_code": 8,
+    "price": 36.78
+  }
+]
